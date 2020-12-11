@@ -4,5 +4,7 @@
  */
 public class test {
 
+    int b=1;
+
      int i=0;
 }
