@@ -5,6 +5,7 @@
 public class test {
 
     int b=1;
+    int d=3;
     int c=2;
      int i=0;
 }
